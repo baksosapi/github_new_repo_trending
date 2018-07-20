@@ -3,7 +3,7 @@ Tracking the most popular Github repos that are generated within a week or a mon
 
 ### What's different from the official [github-trending](https://github.com/trending) ?
 * The official focus is on which repos have **the most stars growth** over a period of time
-* The project is to find some popular repos that are generated within a week or a month or a quarter, sorted by stars and forks
+* The project is to find some popular **repos that are generated** within a week or a month or a quarter, sorted by stars and forks
 
 ### 与官方的 [github-trending](https://github.com/trending) 有何区别：
 * 官方 trending 的重点在于某段时间，哪些项目的 stars **增长最多**
