@@ -18,7 +18,7 @@ def git_push(today , filename):
     add = 'git add .'
     commit = 'git commit -m "{date}.md"'.format(date=today)
     push = 'git push -u origin master'
-
+    os.system("git pull")
     os.system(add)
     os.system(commit)
     os.system(push)
