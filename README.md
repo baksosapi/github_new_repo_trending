@@ -1,4 +1,4 @@
-# github trending spider
+# github new repo trending
 Tracking the most popular Github repos that are generated within a week or a month or a quarter. Sorted by stars and forks in descending order. Updated daily!!🍻
 
 ### What's different from the official [github-trending](https://github.com/trending) ?
